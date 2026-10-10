@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Google Sheets API Credentials
+service_account.json
+*.json
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Dev Profiles & OS Files
+chrome_dev_profile/
+.DS_Store
+Thumbs.db
